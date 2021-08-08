@@ -8,6 +8,12 @@ Assignment1- https://github.com/Shashank-468/Python-and-Data-Science-Workshop/bl
 Assignment2- https://github.com/Shashank-468/Python-and-Data-Science-Workshop/blob/master/Assignment_2.ipynb
 
 
+Assignment3- https://github.com/Shashank-468/Python-and-Data-Science-Workshop/blob/master/Assignment_3.ipynb
+
+
+Assignment4- https://github.com/Shashank-468/Python-and-Data-Science-Workshop/blob/master/Assignment_4.ipynb
+
+
 http://shekharshashank.me/Python-and-Data-Science-Workshop/
 
 mbox.shashank@gmail.com

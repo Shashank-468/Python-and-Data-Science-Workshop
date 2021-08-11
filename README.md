@@ -17,6 +17,8 @@ Assignment4- https://github.com/Shashank-468/Python-and-Data-Science-Workshop/bl
 Assignment5- https://github.com/Shashank-468/Python-and-Data-Science-Workshop/blob/master/Assignment_5.ipynb
 
 
+Assignment6- http://shekharshashank.me/Python-and-Data-Science-Workshop/Assignment_6.html
+
 http://shekharshashank.me/Python-and-Data-Science-Workshop/
 
 mbox.shashank@gmail.com
